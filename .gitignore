@@ -1,0 +1,7 @@
+/__pycache__/
+/.vscode/
+/ddbb/
+/myenv/
+credentials.json
+ms_credentials.json
+oldcredentials.json
